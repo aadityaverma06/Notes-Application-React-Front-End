@@ -9,6 +9,7 @@ A Front-End app that can be used to take Notes.
 - Notes can viewed, deleted, edited, copied and even shared.
 - Redux Toolkit is used for state management.
 - Notes are stored and retrieved from local storage.
+- Notes can be searched based on the title of the note.
 - The app is deployed on Vercel.
 
 ## 🛠️ Tech Stack
