@@ -27,4 +27,4 @@ npm run dev
 
 ### 🌐 Using Vercel Link
 
-https://password-generator-eta-cyan-16.vercel.app/
+https://notes-application-rho.vercel.app/
