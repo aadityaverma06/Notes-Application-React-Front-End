@@ -25,8 +25,8 @@ const Home = () => {
       title: title,
       content: content,
       id: noteId || Date.now().toString(),
-      createdAt: new Date().toISOString()
-    }
+      createdAt: new Date(new Date().toISOString()).toLocaleString(),
+    };
 
     if(noteId){
       dispatch(updateNote(note));
