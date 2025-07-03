@@ -25,7 +25,7 @@ const Home = () => {
       title: title,
       content: content,
       id: noteId || Date.now().toString(),
-      createdAt: new Date(new Date().toISOString()).toLocaleString("en-GB"),
+      createdAt: new Date(new Date().toISOString()).toLocaleString("en-IN"),
     };
 
     if(noteId){
